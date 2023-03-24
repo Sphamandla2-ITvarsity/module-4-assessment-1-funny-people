@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 150%;
+    background-color: white;
+}
+
+#left-column{
+    width: 40%;
+    float: left;
+    background-color: aqua;
+
+}
+
+#right-column img{
+    width: 575px;
+    margin-left: 100pc;
+    margin-top: 0px;
+    
+
+}
+
+img#logo{
+    position: fixed;
+    width: 150px;
+    bottom: 20px;
+    right: 10px;
+}
